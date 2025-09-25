@@ -12,7 +12,7 @@ function useCurrencyInfo(currency) {
         if (response[currency]) {
           setData(response[currency]);
         } else {
-          setData({ //  if API returns unexpected data
+          setData({ // fallback if API returns unexpected data
             usd: 1,
             inr: 83,
             eur: 0.9,
