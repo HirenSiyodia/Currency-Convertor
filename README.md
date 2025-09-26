@@ -1,17 +1,20 @@
 
-# React + Vite
-I have created this website using React, Vite, and Tailwind CSS. It is designed as a single landing page with a clean and modern look. The site is fully responsive, ensuring a smooth experience across devices, and highlights key features with a simple, user-friendly interface.
+📃 React + Vite
+A lightweight and responsive Currency Converter built with React, Vite, and Tailwind CSS, featuring live exchange rate fetch, unique input handling with useId, and an easy swap option for quick conversions.
 
 🚀 Tech Stack
 React (frontend)
 Vite (build tool)
 Tailwind CSS (styling)
+useId (Hook)
+Custom Hook
+
 ⚙️ Installation
 * Clone the Repo
-git clone https://github.com/HirenSiyodia/01-Vite-Developer.git
+https://github.com/HirenSiyodia/Currency-Convertor.git
 
 * Navigate into it
-cd 01-Vite-Developer
+cd Currency-Convertor
 
 * Install dependencies
 npm install
