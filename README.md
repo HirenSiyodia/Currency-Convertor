@@ -1,8 +1,11 @@
 
-📃 # React + Vite
+
+📃 React + Vite
+ 
 A lightweight and responsive Currency Converter built with React, Vite, and Tailwind CSS, featuring live exchange rate fetch, unique input handling with useId, and an easy swap option for quick conversions.
 
-🚀 # Tech Stack
+🚀 Tech Stack
+
 React (frontend)
 Vite (build tool)
 Tailwind CSS (styling)
