@@ -48,7 +48,7 @@ function App() {
                             label="From"
                             amount={amount}
                             currencyOptions={options}
-                            onCurrencyChange={(currency) => setAmount(amount)}
+                            onCurrencyChange={(currency) => setFrom(currency)} // instead of fixed setAmount set as setFrom so we can choose from dropdwon. 
                             selectCurrency={from}
                             onAmountChange={(amount) => setAmount(amount)}
                         />
