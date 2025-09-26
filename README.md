@@ -1,16 +1,20 @@
+
 # React + Vite
+I have created this website using React, Vite, and Tailwind CSS. It is designed as a single landing page with a clean and modern look. The site is fully responsive, ensuring a smooth experience across devices, and highlights key features with a simple, user-friendly interface.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🚀 Tech Stack
+React (frontend)
+Vite (build tool)
+Tailwind CSS (styling)
+⚙️ Installation
+* Clone the Repo
+git clone https://github.com/HirenSiyodia/01-Vite-Developer.git
 
-Currently, two official plugins are available:
+* Navigate into it
+cd 01-Vite-Developer
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+* Install dependencies
+npm install
 
-## React Compiler
-
-The React Compiler is not enabled on this template. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* Run it locally
+npm run dev
