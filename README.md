@@ -9,22 +9,20 @@ A lightweight and responsive Currency Converter built with React, Vite, and Tail
 - React (frontend)
 - Vite (build tool)
 - Tailwind CSS (styling)
-
-
-useId (Hook)
-Custom Hook
+- useId (Hook)
+- Custom Hook
 
 
 # ⚙️ Installation
 
-* Clone the Repo
+### * Clone the Repo
 https://github.com/HirenSiyodia/Currency-Convertor.git
 
-* Navigate into it
+### * Navigate into it
 cd Currency-Convertor
 
-* Install dependencies
+### * Install dependencies
 npm install
 
-* Run it locally
+### * Run it locally
 npm run dev
